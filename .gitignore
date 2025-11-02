@@ -1,6 +1,15 @@
-*.pkl
-*.csv
-data/
+Music Recommendation /spotify_millsongdata.csv
+Music Recommendation /similarity.pkl
+Music Recommendation /similarity.pkl
+Music Recommendation /spotify_millsongdata.csv
+*similarity.pkl
+*spotify_millsongdata.csv
 .venv/
 .env
+.streamlit/
 __pycache__/
+*.pyc
+data/
+*.pkl
+*.csv
+.env
